@@ -5,4 +5,4 @@ A digital art project written in javascript. The original project was to make a 
 I have used p5.js for the webcam functions, and a simple motion tracking algorithm to see where there should not be any rain.
 
 Copy the following URL to go to the github page this project is being shown on.
-[Demo](https://luukfroling.github.io/WalkInTheRain/ss)
+[Demo](https://luukfroling.github.io/WalkInTheRain/)
