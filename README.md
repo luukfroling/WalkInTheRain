@@ -6,4 +6,4 @@ I have used p5.js for the webcam functions, and a simple motion tracking algorit
 
 Click below to see the page. The page will request to use your webcam, because it needs video input to detect motion.
 The program does not work without camera permissions.
- <a href="luukfroling.github.io/WalkInTheRain/"> Demo </a>
+[Demo](luukfroling.github.io/WalkInTheRain/)
